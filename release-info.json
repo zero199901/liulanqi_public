@@ -1,0 +1,16 @@
+{
+  "source_release_url": "https://github.com/zero199901/liulanqi/releases/tag/apk-20260427-2488269d4d52",
+  "source_repository": "https://github.com/zero199901/liulanqi",
+  "tag": "apk-20260427-2488269d4d52",
+  "commit": "2b5ded8149af82757b0660969273d2293a762718",
+  "commit_date": "2026-04-22T18:21:58+08:00",
+  "author": "remang <donghao@shinesure.com>",
+  "title": "apk-20260427-2488269d4d52",
+  "notes": "",
+  "apk": {
+    "file_name": "CheckInstallApk-debug.apk",
+    "source_path": "build/android/CheckInstallApk-debug.apk",
+    "size_bytes": 37106,
+    "sha256": "1DC3593B7AA000A695E7122FF1146408DF62A1DC322487A331ECC6A27EBF6289"
+  }
+}
